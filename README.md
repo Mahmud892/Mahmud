@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmud Khan
 
-### A Dedicated CS from Bangladesh
+### A Dedicated CS student from Bangladesh
 <h3 align="center">Open to Collaboration!</h3>
 
 ---
